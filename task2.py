@@ -37,4 +37,4 @@ def parquet_to_csv(input_parquet: str, output_csv: str):
 
 if __name__ == "__main__":
     # Example usage
-    parquet_to_csv("hf://datasets/hao-li/AIDev/all_repository.parquet", "output.csv")
+    parquet_to_csv("hf://datasets/hao-li/AIDev/all_repository.parquet", "output2.csv")
